@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin:20px; background:#f4f4f4; }
+h1,h2 { color:#333; }
+a { text-decoration:none; color:blue; margin-right:10px; }
+.productos { display:flex; flex-wrap:wrap; gap:20px; }
+.producto { border:1px solid #ccc; padding:10px; background:#fff; width:200px; }
+.oferta { color:red; font-weight:bold; }
+table { width:80%; border-collapse:collapse; margin-top:20px; }
+th, td { padding:10px; text-align:center; }
+button { padding:5px 10px; cursor:pointer; }
+form { display:flex; flex-direction:column; gap:10px; width:300px; }
+input { padding:5px; }
